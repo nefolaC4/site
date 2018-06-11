@@ -1,7 +1,0 @@
-baseURL = "https://schollz.github.io"
-languageCode = "en-us"
-title = "schollz blog"
-publishDir = "docs"
-
-[permalinks]
-  post = "/:slug/"
